@@ -1,0 +1,13 @@
+
+flask
+flask-cors
+streamlit
+requests
+python-dotenv
+langchain>=0.2.7
+langchain-openai
+langchain-community
+sentence-transformers
+faiss-cpu
+pypdf
+pdfminer.six

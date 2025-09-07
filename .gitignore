@@ -1,0 +1,34 @@
+# 가상환경
+venv/
+.env/
+*.env
+
+# Python 캐시
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 빌드/배포 파일
+*.egg-info/
+build/
+dist/
+
+# Jupyter/Streamlit
+.ipynb_checkpoints/
+.streamlit/
+
+# OS 별 불필요 파일
+.DS_Store
+Thumbs.db
+
+# IDE 설정
+.vscode/
+.idea/
+
+# 로그 파일
+*.log
+
+# 데이터/모델 (필요시 제외)
+data/
+models/
